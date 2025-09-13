@@ -1,4 +1,4 @@
 # Image-Viewer
 This is my first Repository
 <br>
-Autor-Pratik Jadhav
+Autor-Pratik Jadhav (Btech-CS)
